@@ -1,6 +1,5 @@
 # MSTU5013
 <!DOCTYPE HTML>
-
 <html>
 	<head>
 		<video autoplay>
